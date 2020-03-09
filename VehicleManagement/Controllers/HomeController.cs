@@ -13,6 +13,10 @@ namespace VehicleManagement.Controllers
             return View();
         }
 
+        public ActionResult Add()
+        {
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
