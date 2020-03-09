@@ -12,6 +12,15 @@ namespace VehicleManagement.Controllers
         {
             return View();
         }
+        public ActionResult sub()
+        {
+            return View();
+        }
+
+        public ActionResult Mul()
+        {
+            return View();
+        }
 
         public ActionResult Add()
         {
